@@ -67,7 +67,11 @@ article{
     margin-bottom: 1rem;
 }
 .contacto__form__btn{
-    width: 20vw;
+    width: 10vw;
+    height: 5vh;
+    border: 1px solid #22a900;
+    background-color: transparent;
+    color: #22a900;
 }
 
 
